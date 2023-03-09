@@ -7,6 +7,6 @@ The following notebook is a workflow through building, testing, and using a Line
 
 This notebook performs a brief exploratory analysis of data, notes, engineering of both numerical and categorical variables. 
 
-The Linear Regression model built incorporates Ridge regularization:
+The Linear Regression model built incorporates Ridge regularization.
   Ridge regularization, adds a penalty term equal to the square of the coefficients. 
   This technique tends to produce models with small but non-zero coefficients, which can be useful for reducing the impact of noisy or correlated features.
